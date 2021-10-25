@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900i&display=swap');
+body{
+    background-color: #F0A17F;
+}
+
+.wishes{
+    
+    transform: translate(-50%, -50%);
+    font-size:44px;
+      letter-spacing:0.1em;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 
+                          8px 8px #ff1f8f,
+                          20px 20px #000000;
+  }
+.jumbotron{
+    margin: 50px;
+    background-image: url('https://thumbs.dreamstime.com/b/colorful-happy-birthday-cupcakes-candles-spelling-148323072.jpg');
+    background-size:  100% 100%;;
+}
+
+.container{
+    height: 250px;
+    width: 250px;
+}
+.wish{
+    text-align: center;
+    font-size: larger;
+}
+
+.poem{
+    text-align: center;
+}
+
+#carouselExampleIndicators{
+    text-align: center;
+    margin: 50px;
+    padding: 250px;
+}
